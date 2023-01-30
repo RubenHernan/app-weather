@@ -1,0 +1,57 @@
+[
+    {
+    "id": "01d",
+    "id2": "01n",
+    "back" :"url(/clear-sky.jpg)",
+    "color": "black"
+    
+    },
+    {
+     "id": "02d",
+     "id2": "02n",
+     "back" : "url(/few-clouds.jpg)",
+     "color": "black"
+    },
+    {
+      "id":  "03d",
+      "id2":  "03n",
+      "back" :  "url(/scattered-clouds.jpg)",
+      "color":  "black"
+    },
+    {
+      "id":  "04d",
+      "id2":  "04n",
+      "back" :  "url(/broken-clouds.jpg)", 
+      "color":  "black"
+    },
+    {
+       "id": "09d",
+       "id2": "09n",
+       "back" : "url(/shower-rain.jpg)",
+       "color": "black"
+    },
+    {
+       "id": "10d",
+       "id2": "10n",
+       "back" : "url(/rain.jpg)", 
+       "color": "black"
+    },
+    {
+       "id": "11d",
+       "id2": "11n",
+       "back" : "url(/thunder-storm.jpg)", 
+       "color": "black"
+    },
+    {
+      "id":  "13d",
+      "id2":  "13n",
+      "back" :  "url(/snow.jpg)", 
+        "color": "black"
+    },
+    {
+       "id": "50d",
+       "id2": "50n",
+        "back" :"url(/mist.jpg)",
+       "color": "black"
+    }
+]

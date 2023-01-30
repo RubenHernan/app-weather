@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+
+/* --- RESET --- */
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Gruppo', cursive;
+    margin: 0;
+  }
+  h1, h2, h3, p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  img {
+    display: block;
+    width: 100%;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  input, button {
+    font-size: 1.5rem;
+  }
